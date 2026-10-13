@@ -1,11 +1,18 @@
 <div align="center">
 
-  <!-- BANNER CIBERNÉTICO DE ALTA CALIDAD -->
-  <img width="4096" height="2160" alt="R-holo" src="https://github.com/user-attachments/assets/22018e5c-698a-44e4-8426-80e74af7c221" />
+  <!-- BANNER CIBERNÉTICO DE ALTA CALIDAD DE TUS ASSETS -->
+  <img src="https://github.com/user-attachments/assets/22018e5c-698a-44e4-8426-80e74af7c221" width="100%" style="border-radius: 10px;" alt="Rick Julcamoro Banner" />
 
   <br/><br/>
 
-  <!-- BOTÓN DE PORTAFOLIO CON EFECTO NEÓN Y BADGES ACTIVOS -->
+  <!-- EFECTO TYPING / ENCABEZADO ANIMADO -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Developer;UI%2FUX+%26+Software+Architecture;Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B;Apasionado+por+Bases+de+Datos+e+Infraestructura" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- BOTÓN DE PORTAFOLIO CON EFECTO NEÓN -->
   <a href="https://rck-g.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_EXPLORAR_PORTAFOLIO_INTERACTIVO_3D-00f2fe?style=for-the-badge&logo=three.js&logoColor=000000&labelColor=0d1117" alt="Portafolio 3D" />
   </a>
@@ -13,7 +20,7 @@
   <br/><br/>
 
   <!-- PRESENTACIÓN Y ROL -->
-  <h3>⚡ Systems Engineering Student & Developer ⚡</h3>
+  <h3>⚡ Systems Engineering Student & Systems Developer ⚡</h3>
   
   <p>
     <i>"Transformando ideas complejas en experiencias digitales fluidas, robustas y escalables."</i>
@@ -21,15 +28,15 @@
 
   <br/>
 
-  <!-- REDES Y CONTACTO DIRECTO -->
-  <a href="greegjp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- REDES Y CONTACTO DIRECTO CORREGIDOS -->
+  <a href="mailto:greegjp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/rick-jp-52a958323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rick-jp-52a958323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://beacons.ai/rckg" target="_blank">
-    <img src="https://img.shields.io/badge/Beacons-000000?style=for-the-badge&logo=beacons&logoColor=white" />
+    <img src="https://img.shields.io/badge/Beacons-000000?style=for-the-badge&logo=beacons&logoColor=white" alt="Beacons" />
   </a>
 
 </div>
@@ -40,30 +47,34 @@
 
 ### 🛠️ Tech Stack & Ecosistema
 
-#### **Frontend & UI/UX**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
+<div align="center">
 
-#### **Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+  <h4>🎨 Frontend & UI/UX</h4>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  </p>
 
-#### **Tools, Automation & Infra**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+  <h4>⚙️ Backend & Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </p>
+
+  <h4>🚀 Tools, Automation & Infra</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </p>
+
+</div>
 
 <hr/>
 
