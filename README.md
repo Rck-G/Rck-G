@@ -7,7 +7,7 @@
 
   <!-- EFECTO TYPING / ENCABEZADO ANIMADO -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full-Stack+Systems+Developer;UI%2FUX+%26+Software+Architecture;Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B;Apasionado+por+Bases+de+Datos+e+Infraestructura" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Full-Stack+Systems+Developer;UI%2FUX+%26+Software+Architecture;Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B+%7C+Flutter;Apasionado+por+Bases+de+Datos+e+Infraestructura" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -83,6 +83,20 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"><b>Jarvis</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/QSS_Styling-ff69b4?style=flat-square" />
+      </p>
+      <p>Autonomous Voice Agent with Wake Word, Dynamic VAD & Dual Engine</p>
+      <p align="center">
+        <a href="https://github.com/leave24/JARVIS.git" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-00f2fe?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center"><b>CRM & System Architecture - Atlantic City</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -92,20 +106,6 @@
       <p>Prototipo de plataforma CRM y especificación de arquitectura de software para gestión de clientes y servicios digitales.</p>
       <p align="center">
         <a href="https://github.com/Rck-G/Pre-Des.Web" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-00f2fe?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>Restaurant RCKG App</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/QSS_Styling-ff69b4?style=flat-square" />
-      </p>
-      <p>Aplicación de escritorio para la gestión de restaurantes con interfaz dinámica, diseño en Qt Designer y temas QSS modernos.</p>
-      <p align="center">
-        <a href="https://github.com/Rck-G" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-00f2fe?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
