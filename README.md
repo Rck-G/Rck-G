@@ -32,7 +32,7 @@
   <a href="mailto:greegjp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/rick-jp-52a958323" target="_blank">
+  <a href="https://www.linkedin.com/in/rick-jp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://beacons.ai/rckg" target="_blank">
