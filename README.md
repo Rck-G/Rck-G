@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- BANNER CIBERNÉTICO DE ALTA CALIDAD DE TUS ASSETS -->
-  <img src="https://github.com/user-attachments/assets/22018e5c-698a-44e4-8426-80e74af7c221" width="100%" style="border-radius: 10px;" alt="Rick Julcamoro Banner" />
+  <!-- BANNER CIBERNÉTICO DE ALTA CALIDAD -->
+  <img src="https://github.com/user-attachments/assets/22018e5c-698a-44e4-8426-80e74af7c221" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 242, 254, 0.15);" alt="Rick Julcamoro Banner" />
 
   <br/><br/>
 
   <!-- EFECTO TYPING / ENCABEZADO ANIMADO -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Developer;UI%2FUX+%26+Software+Architecture;Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B;Apasionado+por+Bases+de+Datos+e+Infraestructura" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full-Stack+Systems+Developer;UI%2FUX+%26+Software+Architecture;Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B;Apasionado+por+Bases+de+Datos+e+Infraestructura" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -20,7 +20,7 @@
   <br/><br/>
 
   <!-- PRESENTACIÓN Y ROL -->
-  <h3>⚡ Systems Engineering Student & Systems Developer ⚡</h3>
+  <h3>⚡ Systems Engineering Student & Full-Stack Systems Developer ⚡</h3>
   
   <p>
     <i>"Transformando ideas complejas en experiencias digitales fluidas, robustas y escalables."</i>
@@ -75,6 +75,43 @@
   </p>
 
 </div>
+
+<hr/>
+
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>CRM & System Architecture - Atlantic City</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-00f2fe?style=flat-square&logoColor=black" />
+      </p>
+      <p>Prototipo de plataforma CRM y especificación de arquitectura de software para gestión de clientes y servicios digitales.</p>
+      <p align="center">
+        <a href="https://github.com/Rck-G/Pre-Des.Web" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-00f2fe?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>Restaurant RCKG App</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/QSS_Styling-ff69b4?style=flat-square" />
+      </p>
+      <p>Aplicación de escritorio para la gestión de restaurantes con interfaz dinámica, diseño en Qt Designer y temas QSS modernos.</p>
+      <p align="center">
+        <a href="https://github.com/Rck-G" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-00f2fe?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
